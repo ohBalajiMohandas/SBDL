@@ -1,0 +1,6 @@
+# Default ignored files for VS Code settings
+lib/__pycache__/*
+.venv/*
+/app-log/*
+/__pycache__/*
+/.pytest_cache/*
